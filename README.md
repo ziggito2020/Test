@@ -2,7 +2,7 @@ App
 
 ## Install Composer dependencies
 ```bash
-composer install
+composer update
 ```
 
 ## Install Node dependencies
